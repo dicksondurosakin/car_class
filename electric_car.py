@@ -30,3 +30,5 @@ class ElectricCar(Car):
     def refuel_tank(self):
         """removing fuel tank from an electric car"""
         print(f"{self.make} doesn't have a fuel tank")
+
+# i am adding a dummy text
